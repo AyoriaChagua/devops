@@ -12,7 +12,7 @@ public class BasicApplicationTests {
  
  @Test
  public void contextLoads() {
- 	    String meessage= "default message cambio test devops";
+ 	    String meessage= "Este es la primera prueba de intregracion continua";
  	    Assert.assertNotNull(meessage);
  }
  
